@@ -1,3 +1,5 @@
-yolo11x.pt
-/runs
+/.ropeproject
 /.venv
+/runs
+/models/*.pt
+yolov8x.pt
