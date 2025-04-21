@@ -3,3 +3,5 @@
 /runs
 /models/*.pt
 yolov8x.pt
+/output_videos
+/utils/__pycache__
